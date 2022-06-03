@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AresAmigos
 - 👀 I’m interested of everything, lol
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I am currently collaborating with CARMELIX7052
 - 📫 How to reach me? U can't reach me :D
 
 <!---
